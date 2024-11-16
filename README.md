@@ -45,5 +45,5 @@ Soil Nutrients: Nitrogen (N), Phosphorus (P), and Potassium (K) levels.
 Environmental Conditions: Temperature, Humidity, pH, and Rainfall.
 The data was sourced from trusted agricultural research institutions and curated for model training and evaluation.
 
-<img width="641" alt="image" src="https://github.com/user-attachments/assets/e29b47f0-24bf-49e3-aefb-6e455a5270b1">
+![image](https://github.com/user-attachments/assets/efdc5974-d2ec-4d2c-8f0b-8a61835ff280)
 
