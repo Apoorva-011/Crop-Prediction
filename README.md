@@ -1,11 +1,11 @@
-**🌾 Crop Recommendation System**
+<h1>Crop Recommendation System</h1>
 
-**Overview**
+<h3>Overview</h3>
 
 
 The Crop Recommendation System is a machine learning-based application designed to assist farmers in making informed decisions about which crops to plant. By analyzing critical factors such as soil nutrients (Nitrogen, Phosphorus, Potassium), temperature, humidity, pH, and rainfall, the system predicts the optimal crop for a given set of environmental conditions. This project aims to enhance agricultural productivity, promote sustainable farming, and empower farmers with accessible technology.
 
-**🚀 Features**
+<h3>Features</h3>
 
 
 1. Accurate Crop Predictions: Tried different models and finally utilized a Random Forest classifier for precise crop recommendations based on environmental and soil data.
@@ -13,14 +13,14 @@ The Crop Recommendation System is a machine learning-based application designed 
 3. Data-Driven Insights: Helps farmers make informed decisions, improving yield and optimizing resource use.
 4. Accessible Anywhere: Lightweight, web-based application designed to work on various devices.
 
-**🛠️ Technology Stack**
+<h3>Technology Stack</h3>
 
 1. Programming Language: Python
 2. Frameworks: Flask (for the web application)
 3. Frontend: HTML, Bootstrap CSS
 4. Libraries: NumPy, Pandas, Scikit-learn, Matplotlib 
 
-**🚀 How to Run**
+<h3>How to Run</h3>
 
 
 Clone this repository:
@@ -29,7 +29,7 @@ Clone this repository:
 3. python app.py
 4. Open your browser and go to http://127.0.0.1:5000.
 
-**📈 Dataset Details**
+<h3>Dataset Details</h3>
 
 
 The dataset used in this project includes features:
