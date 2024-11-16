@@ -1,7 +1,6 @@
 numpy==1.23.0
 pandas==1.5.3
-scikit-learn==1.2.0
+scikit-learn>=1.5.0
 matplotlib==3.7.1
 seaborn==0.12.2
-flask>=2.2.5           # Flask for the web framework
-pickle-mixin==1.0.2    # For Pickle compatibility if needed in certain environments
+flask>=2.2.5
