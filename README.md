@@ -8,42 +8,34 @@ The Crop Recommendation System is a machine learning-based application designed 
 **🚀 Features**
 
 
-Accurate Crop Predictions: Utilizes a Random Forest classifier for precise crop recommendations based on environmental and soil data.
-User-Friendly Web Interface: Built with Flask, the application provides an easy-to-use platform for farmers to input data and receive real-time recommendations.
-Data-Driven Insights: Helps farmers make informed decisions, improving yield and optimizing resource use.
-Accessible Anywhere: Lightweight, web-based application designed to work on various devices.
+1. Accurate Crop Predictions: Tried different models and finally utilized a Random Forest classifier for precise crop recommendations based on environmental and soil data.
+2. User-Friendly Web Interface: Built with Flask, the application provides an easy-to-use platform for farmers to input data and receive real-time recommendations.
+3. Data-Driven Insights: Helps farmers make informed decisions, improving yield and optimizing resource use.
+4. Accessible Anywhere: Lightweight, web-based application designed to work on various devices.
 
 **🛠️ Technology Stack**
 
-
-Machine Learning: Random Forest Classifier
-Programming Language: Python
-Frameworks: Flask (for the web application)
-Frontend: HTML, CSS
-Libraries: NumPy, Pandas, Scikit-learn, Matplotlib 
+1. Programming Language: Python
+2. Frameworks: Flask (for the web application)
+3. Frontend: HTML, Bootstrap CSS
+4. Libraries: NumPy, Pandas, Scikit-learn, Matplotlib 
 
 **🚀 How to Run**
 
 
 Clone this repository:
-bash
-Copy code
-git clone https://github.com/Apoorva-011/Crop-Prediction.git
-cd Crop-Recommendation-System
-Train the model (if not already trained) or use the pre-trained model in the model/ directory.
-Run the Flask application:
-bash
-Copy code
-python app.py
-Open your browser and go to http://127.0.0.1:5000.
+1. git clone https://github.com/Apoorva-011/Crop-Prediction.git
+2. cd Crop-Recommendation-System
+3. python app.py
+4. Open your browser and go to http://127.0.0.1:5000.
 
 **📈 Dataset Details**
 
 
-The dataset used in this project includes features like:
+The dataset used in this project includes features:
 Soil Nutrients: Nitrogen (N), Phosphorus (P), and Potassium (K) levels.
 Environmental Conditions: Temperature, Humidity, pH, and Rainfall.
-The data was sourced from trusted agricultural research institutions and curated for model training and evaluation.
+The data was sourced from Kaggle and curated for model training and evaluation.
 
 ![image](https://github.com/user-attachments/assets/efdc5974-d2ec-4d2c-8f0b-8a61835ff280)
 
