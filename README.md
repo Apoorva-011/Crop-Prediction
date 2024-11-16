@@ -28,7 +28,7 @@ Libraries: NumPy, Pandas, Scikit-learn, Matplotlib
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/Crop-Recommendation-System.git
+git clone https://github.com/Apoorva-011/Crop-Prediction.git
 cd Crop-Recommendation-System
 Train the model (if not already trained) or use the pre-trained model in the model/ directory.
 Run the Flask application:
