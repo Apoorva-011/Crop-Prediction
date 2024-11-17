@@ -17,8 +17,8 @@ The Crop Recommendation System is a machine learning-based application designed 
 
 1. Programming Language: Python
 2. Frameworks: Flask (for the web application)
-3. Frontend: HTML, Bootstrap CSS
-4. Libraries: NumPy, Pandas, Scikit-learn, Matplotlib 
+3. Frontend: HTML,CSS
+4. Libraries: NumPy, Pandas, Scikit-learn, Matplotlib,Seaborn
 
 <h3>How to Run</h3>
 
@@ -26,7 +26,7 @@ The Crop Recommendation System is a machine learning-based application designed 
 Clone this repository:
 1. git clone https://github.com/Apoorva-011/Crop-Prediction.git
 2. cd Crop-Recommendation-System
-3. python app.py
+3.  run python app.py
 4. Open your browser and go to http://127.0.0.1:5000.
 
 <h3>Dataset Details</h3>
